@@ -1,0 +1,20 @@
+{
+	"name": "OxoTHuKxD/polygant-test",
+	"description": "Polygant test task 3",
+	"type": "project",
+	"minimum-stability": "stable",
+	"require": {
+		"php": ">=5.4.0",
+		"yiisoft/yii2": "2.0.*"
+	},
+	"require-dev": {
+	  "yiisoft/yii2-debug": "*",
+	  "yiisoft/yii2-gii": "*"
+	},
+	"extra": {
+	  "asset-installer-paths": {
+		"npm-asset-library": "vendor/npm",
+		"bower-asset-library": "vendor/bower"
+	  }
+	}
+}
